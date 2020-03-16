@@ -1,0 +1,15 @@
+{
+  "name": "node-api1-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mchrupcala/node-api1-project.git",
+  "author": "mchrupcala <michael.chrupcala@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^13.10.1"
+  }
+}
